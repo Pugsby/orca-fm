@@ -1,0 +1,9 @@
+Package: orca
+Version: 0.1.0
+Architecture: amd64
+Installed-Size: 8959
+Maintainer: Pugsby
+Priority: optional
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Description: A File Manager written in Rust
+ (none)

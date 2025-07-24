@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=A File Manager written in Rust
+Exec=Orca
+StartupWMClass=Orca
+Icon=Orca
+Name=Orca
+Terminal=false
+Type=Application
