@@ -4,11 +4,7 @@ A modern, fast file manager inspired by KDE's Dolphin, built with Rust and Tauri
 
 ## Features
 
-- **Fast and lightweight** - Built with Rust for optimal performance
-- **Modern UI** - Clean, intuitive interface with dark theme support
-- **Cross-platform** - Works on Linux, Windows, and macOS
-- **Image previews** - Built-in thumbnail generation for image files
-- **Keyboard navigation** - Efficient file browsing with keyboard shortcuts
+- **none**
 
 ## Screenshots
 
