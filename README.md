@@ -8,7 +8,8 @@ A modern, fast file manager inspired by KDE's Dolphin, built with Rust and Tauri
 
 ## Screenshots
 
-_Add screenshots here to showcase your file manager_
+<img width="1707" height="960" alt="image" src="https://github.com/user-attachments/assets/bd476257-2657-434f-8a2e-19a5dc2a4e03" />
+
 
 ## Installation
 
